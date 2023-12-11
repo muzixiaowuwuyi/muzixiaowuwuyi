@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi！
-I'm a passionate front-end engineer. I'm proficient in multiple programming languages, including Python and JavaScript, and excel in various tasks based on JavaScript, both on the front end and back end. Before becoming a programmer, I was an accomplished designer. This design background has greatly aided my transition into a front-end engineer, enabling me to develop user-friendly interactive interfaces and exceptional UI designs.
+## Hi， welcome to my GitHub. I'm Li, a Front-end developer
+I'm a passionate front-end developer. I'm proficient in multiple programming languages, including Python and JavaScript, and excel in various tasks based on JavaScript, both on the front end and back end. Before becoming a programmer, I was an accomplished designer. This design background has greatly aided my transition into a front-end engineer, enabling me to develop user-friendly interactive interfaces and exceptional UI designs.
 
 Whether as a designer or now as a front-end engineer, I deeply understand the importance of teamwork. I've always been eager to contribute my skills to the team, bringing confidence and strength to the group.
 
